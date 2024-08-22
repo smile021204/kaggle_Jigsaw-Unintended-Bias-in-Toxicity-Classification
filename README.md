@@ -2,7 +2,7 @@
 
 ## 1. Business Problem
 
-**Source:** Kaggle - Jigsaw Unintended Bias in Toxicity Classification
+**Source:** [Kaggle - Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
 
 **Problem Statement:** Predict the toxicity of user comments while considering potential biases in the data.
 
